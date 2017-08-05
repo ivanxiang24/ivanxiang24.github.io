@@ -74,7 +74,7 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 # theme: landscape
 # theme: edinburgh
-theme: magnetic
+theme: jekyll-theme-minimal
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
