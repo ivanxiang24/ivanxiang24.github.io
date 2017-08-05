@@ -5,7 +5,7 @@ tags:
 categories:
   - test
 date: 2017-08-05 09:58:00
-cover_index: /images/p1.jpg
+cover_index: /images/p2.jpg
 cover_detail: /images/p1.jpg
 ---
 # test post 2
