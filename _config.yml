@@ -81,7 +81,7 @@ theme: jekyll-theme-minimal
 deploy:
   type: git
   repo: https://github.com/ivanxiang24/ivanxiang24.github.io.git
-  branch: catcher.studio
+  branch: master
 # message: [message]
 
 # hexo-admin
